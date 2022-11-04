@@ -9,7 +9,9 @@
 - Vinycius Alencar
 
 
-## Breve resumo
+## O que é
+  Dispositivo desenvolvido com o objetivo de auxiliar o acesso de pessoas com deficiência visual a lugares como hospitais, museus, áreas esterilizadas e espaços onde não é possível o acesso com um cão-guia em geral.
+
 
 ## Menu
 ### [Introdução](https://github.com/GabrieldeCamposs/Robo-Guia/blob/main/Introdução.md)
