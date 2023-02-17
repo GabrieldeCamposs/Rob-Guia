@@ -10,7 +10,7 @@ ambientes públicos fechados, tal como museus, hospitais e estabelecimentos onde
   No Museu de Nice, o problema foi tratado com uma bengala especial e com faixas magnéticas, já em Madri foi criado um museu especial para cegos. 
 (SUPER INTERESANTE, 2016), Até a arquitetura do museu de Madri foi projetada no sentido de facilitar a visita dos deficientes visuais. Ali, eles dispõem de 40.000 livros em braile, 60.000 trilhas sonoras e 5.000 trabalhos de arte 
 Fazendo assim, esses museus facilitarem para essas pessoas visitalos. Mas assim como esses museus, não há tantos no mundo que ajudam essas pessoas a se localizarem nestes ambientes.
-Como diz (MATINAL JORNALISMO, 2021), As cidades mais desenvolvidas do planeta também ficam devendo, mas há iniciativas buscando mudança. No início de 2019, mais de 75 galerias de arte de Nova York foram processadas porque seus sites não eram acessíveis aos cegos
+Como diz (MATINAL JORNALISMO, 2021), As cidades mais desenvolvidas do planeta também ficam devendo, mas há iniciativas buscando mudança. No início de 2019, mais de 75 galerias de arte de Nova York foram processadas porque seus sites não eram acessíveis aos cegos.
 
 ## Referencias
  M S I L
