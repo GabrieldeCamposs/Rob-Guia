@@ -2,9 +2,8 @@
 
 ## Créditos 
 - Gabriel da Assunção de Campos 
-- João Vitor de Oliveira Souza
-- Pablo Ítalo Souza
-- Vinícius Schenatto
+- Jamily Furlan
+- Ana Clara Souza
 - Vinícius Goffredo
 - Vinycius Alencar
 
@@ -14,7 +13,7 @@
 
 
 ## Menu
-### [Introdução](https://github.com/GabrieldeCamposs/Robo-Guia/blob/main/Introdução.md)
-### [Lista de materiais](https://github.com/GabrieldeCamposs/Robo-Guia/blob/main/Materiais.md)
+### [Introdução](https://github.com/GabrieldeCamposs/TCC/blob/main/Introdução.md)
+### [Lista de materiais](https://github.com/GabrieldeCamposs/TCC/blob/main/Materiais.md)
 
 https://www.tinkercad.com/things/3xCbJdl6RbA
