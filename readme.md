@@ -1,7 +1,7 @@
 # TCC
 
 ## Créditos 
-- Gabriel da Assunção de Campos 
+- Gabriel Campos 
 - Jamily Furlan
 - Ana Clara Souza
 - Vinícius Goffredo
