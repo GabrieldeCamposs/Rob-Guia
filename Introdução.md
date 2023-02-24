@@ -2,9 +2,9 @@
 
 ## Apresentação
   ### Cenário/Justificativa
-  Segundo (IBGE EDUCA, 2010), 3,4% da população brasileira possui uma deficiência visual total,  e, segundo a OMS, 4,5% da população mundial é completamente cega (Louis Braille, 2020).
+  Segundo (IBGE EDUCA, 2010), 3,4% da população brasileira possui uma deficiência visual total,  e, segundo a OMS, 4,5% da população mundial é completamente ou parcialmente cega (Louis Braille, 2020).
 Para atender as necessidades dessa parcela considerável da população, foi idealizado um robô com o objetivo de auxiliar a interação dessas pessoas com
-ambientes públicos fechados, tal como museus, hospitais e estabelecimentos onde não se é possível entrar com um cão-guia.
+ambientes públicos fechados, tal como museus, hospitais, escolas e estabelecimentos onde não se é possível entrar com um cão-guia.
   
   ### Problema
   No Museu de Nice, o problema foi tratado com uma bengala especial e com faixas magnéticas, já em Madri foi criado um museu especial para cegos. 
