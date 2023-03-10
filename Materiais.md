@@ -1,7 +1,8 @@
 # Lista de Materiais
 
 01	Placa Uno R3 -https://cdn.awsli.com.br/800x800/574/574394/produto/176654441/4d1bbba623.jpg
-x	Cabo USB 2.0 de 30cm-
+	
+01 Cabo USB 2.0 de 30cm-
 https://www.baudaeletronica.com.br/media/catalog/product/cache/1/image/578x/9df78eab33525d08d6e5fb8d27136e95/c/a/cabo_arduino.jpg
 
 01	Kit Chassi 2 Rodas-
