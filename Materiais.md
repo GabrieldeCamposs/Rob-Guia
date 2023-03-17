@@ -45,3 +45,6 @@ https://www.saravati.com.br/resistor-33r-5-1/4w?utm_source=Site&utm_medium=Googl
 01	Kit Rfid-
 https://www.amazon.com.br/Kit-Rfid-Programável-Mifare-Arduino/dp/B09VWS1G5L/ref=asc_df_B09VWS1G5L/?tag=googleshopp00-20&linkCode=df0&hvadid=379721266747&hvpos=&hvnetw=g&hvrand=6894282524744933119&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100399&hvtargid=pla-1753319610932&psc=1
 
+01	Servo motor-
+https://loja.fabricadebolso.com.br/micro-servo-motor-sg90-9g-16kgf?gclid=Cj0KCQjwn9CgBhDjARIsAD15h0DVu_ugt71nO8uhpjZnIleaOn-yiE3_8foqHCp65zqfeIGbAdZ3QPcaAgv4EALw_wcB
+
