@@ -3,7 +3,7 @@
 ## Apresentação
   ### Cenário/Justificativa
   Segundo (IBGE EDUCA, 2010), 3,4% da população brasileira possui uma deficiência visual total,  e, segundo a OMS, 4,5% da população mundial é completamente ou parcialmente cega (Louis Braille, 2020).
-Para atender as necessidades dessa parcela considerável da população, desenvolvido como uma solução alternativa, assim como, o piso tatil, placa braile, serviço de audiodescrição para a acessibilidade e a inclusão de deficientes visuais, foi idealizado um robô com o objetivo de auxiliar a interação dessas pessoas em ambientes públicos fechados, tal como museus, hospitais e escolas.
+Para atender as necessidades dessa parcela considerável da população, desenvolvido como uma solução alternativa, assim como, o Piso Tatil, Placa Braile, Serviço de Audiodescrição para a acessibilidade e a inclusão de deficientes visuais, foi idealizado um robô com o objetivo de auxiliar a interação dessas pessoas em ambientes públicos fechados, tal como museus, hospitais e escolas.
   
   ### Problema
   No Museu de Nice, o problema foi tratado com uma bengala especial e com faixas magnéticas, já em Madri foi criado um museu especial para cegos. 
