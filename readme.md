@@ -9,7 +9,7 @@
 
 
 ## O que é
-  Dispositivo desenvolvido com o objetivo de auxiliar o acesso de pessoas com deficiência visual a lugares como hospitais, museus, áreas esterilizadas e espaços onde não é possível o acesso com um cão-guia em geral.
+Trata-se de um dispositivo desenvolvido com o objetivo de auxiliar o acesso de pessoas com deficiência visual a lugares como hospitais, museus, áreas esterilizadas. Uma solução alternativa para aqueles que nao tem condições de ter ou manter um cão-guia. 
 
 
 ## Menu
